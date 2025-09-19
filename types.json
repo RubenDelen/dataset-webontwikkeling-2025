@@ -44,7 +44,7 @@
     "name": "Ford",
     "country": "USA",
     "foundedYear": 1903,
-    "logoUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/ford_logo.svg",
+    "logoUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/ford_logo.png",
     "slogan": "Built Ford Tough"
   },
   {
@@ -80,3 +80,4 @@
     "slogan": "Das Auto"
   }
 ]
+
