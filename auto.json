@@ -1,0 +1,202 @@
+[
+  {
+    "id": "CAR-001",
+    "name": "Tesla Model S",
+    "description": "Een volledig elektrische luxe sedan met indrukwekkende prestaties en een groot rijbereik.",
+    "horsepower": 1020,
+    "isActive": true,
+    "releaseDate": "2021-06-10",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Tesla_Model_S_Plaid_IMG_5395.jpg",
+    "category": "Electric",
+    "features": ["Autopilot", "Long Range Battery", "Over-the-Air Updates"],
+    "fuelType": "Electric",
+    "manufacturer": {
+      "id": "MFR-001",
+      "name": "Tesla",
+      "country": "USA",
+      "foundedYear": 2003,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg",
+      "slogan": "Accelerating the World's Transition to Sustainable Energy"
+    }
+  },
+  {
+    "id": "CAR-002",
+    "name": "BMW M3",
+    "description": "Een sportieve sedan die bekendstaat om zijn balans tussen prestaties en dagelijks gebruiksgemak.",
+    "horsepower": 503,
+    "isActive": true,
+    "releaseDate": "2020-09-23",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/2021_BMW_M3_Competition_Automatic_3.0_Front.jpg",
+    "category": "Sport",
+    "features": ["Twin-Turbo Engine", "M xDrive", "Sport Exhaust"],
+    "fuelType": "Petrol",
+    "manufacturer": {
+      "id": "MFR-002",
+      "name": "BMW",
+      "country": "Germany",
+      "foundedYear": 1916,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg",
+      "slogan": "The Ultimate Driving Machine"
+    }
+  },
+  {
+    "id": "CAR-003",
+    "name": "Audi R8",
+    "description": "Een iconische Duitse supercar met een atmosferische V10 motor en quattro vierwielaandrijving.",
+    "horsepower": 602,
+    "isActive": true,
+    "releaseDate": "2019-02-01",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Audi_R8_V10_Performance_IMG_2857.jpg",
+    "category": "Supercar",
+    "features": ["V10 Engine", "Quattro AWD", "Audi Virtual Cockpit"],
+    "fuelType": "Petrol",
+    "manufacturer": {
+      "id": "MFR-003",
+      "name": "Audi",
+      "country": "Germany",
+      "foundedYear": 1909,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Audi_logo_detail.svg",
+      "slogan": "Vorsprung durch Technik"
+    }
+  },
+  {
+    "id": "CAR-004",
+    "name": "Mercedes-AMG GT",
+    "description": "Een high-performance sportcoupé met een lange motorkap en krachtige V8-biturbomotor.",
+    "horsepower": 577,
+    "isActive": true,
+    "releaseDate": "2018-07-05",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mercedes-AMG_GT_C_IMG_2837.jpg",
+    "category": "Sport Coupe",
+    "features": ["Biturbo V8", "Rear-Wheel Drive", "AMG Ride Control"],
+    "fuelType": "Petrol",
+    "manufacturer": {
+      "id": "MFR-004",
+      "name": "Mercedes-Benz",
+      "country": "Germany",
+      "foundedYear": 1926,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mercedes-Logo.svg",
+      "slogan": "The Best or Nothing"
+    }
+  },
+  {
+    "id": "CAR-005",
+    "name": "Toyota Supra",
+    "description": "Een legendarische Japanse sportauto, bekend van motorsport en popcultuur.",
+    "horsepower": 382,
+    "isActive": true,
+    "releaseDate": "2020-03-15",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/2020_Toyota_Supra_3.0L_front.jpg",
+    "category": "Sport",
+    "features": ["Turbocharged Engine", "Rear-Wheel Drive", "Sport Suspension"],
+    "fuelType": "Petrol",
+    "manufacturer": {
+      "id": "MFR-005",
+      "name": "Toyota",
+      "country": "Japan",
+      "foundedYear": 1937,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Toyota_carlogo.svg",
+      "slogan": "Let's Go Places"
+    }
+  },
+  {
+    "id": "CAR-006",
+    "name": "Ford Mustang",
+    "description": "Een Amerikaanse klassieker en icoon van de muscle car cultuur met een krachtige V8.",
+    "horsepower": 480,
+    "isActive": true,
+    "releaseDate": "2019-04-17",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Ford_Mustang_GT_5.0_%E2%80%93_Frontansicht%2C_23._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg",
+    "category": "Muscle Car",
+    "features": ["V8 Engine", "Line Lock", "Sport Exhaust"],
+    "fuelType": "Petrol",
+    "manufacturer": {
+      "id": "MFR-006",
+      "name": "Ford",
+      "country": "USA",
+      "foundedYear": 1903,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg",
+      "slogan": "Built Ford Tough"
+    }
+  },
+  {
+    "id": "CAR-007",
+    "name": "Lamborghini Aventador",
+    "description": "Een Italiaanse hypercar met een atmosferische V12 motor en spectaculaire looks.",
+    "horsepower": 769,
+    "isActive": true,
+    "releaseDate": "2021-09-01",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lamborghini_Aventador_SVJ_Genf_2019_1Y7A5570.jpg",
+    "category": "Hypercar",
+    "features": ["V12 Engine", "Carbon Fiber", "Lambo Doors"],
+    "fuelType": "Petrol",
+    "manufacturer": {
+      "id": "MFR-007",
+      "name": "Lamborghini",
+      "country": "Italy",
+      "foundedYear": 1963,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Lamborghini_logo.svg",
+      "slogan": "Expect the Unexpected"
+    }
+  },
+  {
+    "id": "CAR-008",
+    "name": "Porsche 911",
+    "description": "Een van de meest iconische sportwagens ooit, met een herkenbaar design en achterin geplaatste motor.",
+    "horsepower": 443,
+    "isActive": true,
+    "releaseDate": "2019-11-20",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/2019_Porsche_911_Carrera_S_PDK_S-A_3.0_Front.jpg",
+    "category": "Sport",
+    "features": ["Rear-Engine Layout", "PDK Transmission", "Launch Control"],
+    "fuelType": "Petrol",
+    "manufacturer": {
+      "id": "MFR-008",
+      "name": "Porsche",
+      "country": "Germany",
+      "foundedYear": 1931,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/02/Porsche_logotype.svg",
+      "slogan": "There Is No Substitute"
+    }
+  },
+  {
+    "id": "CAR-009",
+    "name": "Ferrari 488 GTB",
+    "description": "Een Italiaanse supercar met een twin-turbo V8 die kracht en elegantie combineert.",
+    "horsepower": 661,
+    "isActive": true,
+    "releaseDate": "2015-03-03",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ferrari_488_GTB%2C_IAA_2015.JPG",
+    "category": "Supercar",
+    "features": ["Twin-Turbo V8", "Aerodynamic Design", "F1 Tech"],
+    "fuelType": "Petrol",
+    "manufacturer": {
+      "id": "MFR-009",
+      "name": "Ferrari",
+      "country": "Italy",
+      "foundedYear": 1939,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/Ferrari-Logo.svg",
+      "slogan": "Only Those Who Dare, Truly Live"
+    }
+  },
+  {
+    "id": "CAR-010",
+    "name": "Volkswagen Golf GTI",
+    "description": "Een iconische hot hatch die sportiviteit combineert met dagelijks comfort.",
+    "horsepower": 241,
+    "isActive": true,
+    "releaseDate": "2020-05-01",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2020_Volkswagen_Golf_VIII_Style_%E2%80%93_f_10042021.jpg",
+    "category": "Hot Hatch",
+    "features": ["Turbo Engine", "Sport Suspension", "Practical Design"],
+    "fuelType": "Petrol",
+    "manufacturer": {
+      "id": "MFR-010",
+      "name": "Volkswagen",
+      "country": "Germany",
+      "foundedYear": 1937,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Volkswagen_logo_2019.svg",
+      "slogan": "Das Auto"
+    }
+  }
+]
