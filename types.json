@@ -60,7 +60,7 @@
     "name": "Porsche",
     "country": "Germany",
     "foundedYear": 1931,
-    "logoUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/porsche_logotype.png",
+    "logoUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/porsche_logo.png",
     "slogan": "There Is No Substitute"
   },
   {
@@ -80,4 +80,5 @@
     "slogan": "Das Auto"
   }
 ]
+
 
