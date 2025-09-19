@@ -68,7 +68,7 @@
     "name": "Ferrari",
     "country": "Italy",
     "foundedYear": 1939,
-    "logoUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/ferrari-logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/ferrari_logo.png",
     "slogan": "Only Those Who Dare, Truly Live"
   },
   {
@@ -80,5 +80,6 @@
     "slogan": "Das Auto"
   }
 ]
+
 
 
