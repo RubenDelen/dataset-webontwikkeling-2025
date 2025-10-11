@@ -6,12 +6,12 @@
     "horsepower": 1020,
     "isActive": true,
     "releaseDate": "2021-06-10",
-    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/tesla_model_s.png",
+    "imageUrl": "tesla_model_s.png",
     "category": "Electric",
     "features": ["Autopilot", "Long Range Battery", "Over-the-Air Updates"],
     "fuelType": "Electric",
     "manufacturer": {
-      "id": "MFR-001",
+      "id": "MFR-001"
     }
   },
   {
@@ -21,12 +21,12 @@
     "horsepower": 503,
     "isActive": true,
     "releaseDate": "2020-09-23",
-    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/bmw_m3.jpg",
+    "imageUrl": "bmw_m3.jpg",
     "category": "Sport",
     "features": ["Twin-Turbo Engine", "M xDrive", "Sport Exhaust"],
     "fuelType": "Petrol",
     "manufacturer": {
-      "id": "MFR-002",
+      "id": "MFR-002"
     }
   },
   {
@@ -36,12 +36,12 @@
     "horsepower": 602,
     "isActive": true,
     "releaseDate": "2019-02-01",
-    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/audi_r8.jpg",
+    "imageUrl": "audi_r8.jpg",
     "category": "Supercar",
     "features": ["V10 Engine", "Quattro AWD", "Audi Virtual Cockpit"],
     "fuelType": "Petrol",
     "manufacturer": {
-      "id": "MFR-003",
+      "id": "MFR-003"
     }
   },
   {
@@ -51,12 +51,12 @@
     "horsepower": 577,
     "isActive": true,
     "releaseDate": "2018-07-05",
-    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/mercedes-amg_gt.jpg",
+    "imageUrl": "mercedes-amg_gt.jpg",
     "category": "Sport Coupe",
     "features": ["Biturbo V8", "Rear-Wheel Drive", "AMG Ride Control"],
     "fuelType": "Petrol",
     "manufacturer": {
-      "id": "MFR-004",
+      "id": "MFR-004"
     }
   },
   {
@@ -66,12 +66,12 @@
     "horsepower": 382,
     "isActive": true,
     "releaseDate": "2020-03-15",
-    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/toyota_supra.jpg",
+    "imageUrl": "toyota_supra.jpg",
     "category": "Sport",
     "features": ["Turbocharged Engine", "Rear-Wheel Drive", "Sport Suspension"],
     "fuelType": "Petrol",
     "manufacturer": {
-      "id": "MFR-005",
+      "id": "MFR-005"
     }
   },
   {
@@ -81,12 +81,12 @@
     "horsepower": 480,
     "isActive": true,
     "releaseDate": "2019-04-17",
-    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/ford_mustang.jpg",
+    "imageUrl": "ford_mustang.jpg",
     "category": "Muscle Car",
     "features": ["V8 Engine", "Line Lock", "Sport Exhaust"],
     "fuelType": "Petrol",
     "manufacturer": {
-      "id": "MFR-006",
+      "id": "MFR-006"
     }
   },
   {
@@ -96,12 +96,12 @@
     "horsepower": 769,
     "isActive": true,
     "releaseDate": "2021-09-01",
-    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/lamborghini_aventador.jpeg",
+    "imageUrl": "lamborghini_aventador.jpeg",
     "category": "Hypercar",
     "features": ["V12 Engine", "Carbon Fiber", "Lambo Doors"],
     "fuelType": "Petrol",
     "manufacturer": {
-      "id": "MFR-007",
+      "id": "MFR-007"
     }
   },
   {
@@ -111,12 +111,12 @@
     "horsepower": 443,
     "isActive": true,
     "releaseDate": "2019-11-20",
-    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/porsche_911.jpeg",
+    "imageUrl": "porsche_911.jpeg",
     "category": "Sport",
     "features": ["Rear-Engine Layout", "PDK Transmission", "Launch Control"],
     "fuelType": "Petrol",
     "manufacturer": {
-      "id": "MFR-008",
+      "id": "MFR-008"
     }
   },
   {
@@ -126,12 +126,12 @@
     "horsepower": 661,
     "isActive": true,
     "releaseDate": "2015-03-03",
-    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/ferrari_488_gtb.jpeg",
+    "imageUrl": "ferrari_488_gtb.jpeg",
     "category": "Supercar",
     "features": ["Twin-Turbo V8", "Aerodynamic Design", "F1 Tech"],
     "fuelType": "Petrol",
     "manufacturer": {
-      "id": "MFR-009",
+      "id": "MFR-009"
     }
   },
   {
@@ -141,13 +141,12 @@
     "horsepower": 241,
     "isActive": true,
     "releaseDate": "2020-05-01",
-    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/volkswagen_golf.jpg",
+    "imageUrl": "volkswagen_golf.jpg",
     "category": "Hot Hatch",
     "features": ["Turbo Engine", "Sport Suspension", "Practical Design"],
     "fuelType": "Petrol",
     "manufacturer": {
-      "id": "MFR-010",
+      "id": "MFR-010"
     }
   }
 ]
-
