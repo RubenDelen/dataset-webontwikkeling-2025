@@ -4,7 +4,7 @@
     "name": "Tesla",
     "country": "USA",
     "foundedYear": 2003,
-    "logoUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/main/images/tesla_motors.png",
+    "logoUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/tesla_motors.png",
     "slogan": "Accelerating the World's Transition to Sustainable Energy"
   },
   {
@@ -80,3 +80,4 @@
     "slogan": "Das Auto"
   }
 ]
+
