@@ -32,7 +32,7 @@
     "horsepower": 602,
     "isActive": true,
     "releaseDate": "2019-02-01",
-    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/main/images/audi_r8.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/audi_r8.jpg",
     "category": "Supercar",
     "features": ["V10 Engine", "Quattro AWD", "Audi Virtual Cockpit"],
     "fuelType": "Petrol",
@@ -130,3 +130,4 @@
     "manufacturer": { "id": "MFR-010" }
   }
 ]
+
