@@ -6,7 +6,7 @@
     "horsepower": 1020,
     "isActive": true,
     "releaseDate": "2021-06-10",
-    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/main/images/tesla_model_s.png",
+    "imageUrl": "https://raw.githubusercontent.com/RubenDelen/dataset-webontwikkeling-2025/refs/heads/main/image/tesla_model_s.png",
     "category": "Electric",
     "features": ["Autopilot", "Long Range Battery", "Over-the-Air Updates"],
     "fuelType": "Electric",
@@ -130,4 +130,5 @@
     "manufacturer": { "id": "MFR-010" }
   }
 ]
+
 
